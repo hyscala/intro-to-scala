@@ -1,0 +1,26 @@
+== Scala Hands-on Lab  
+
+Welcome to Scala Hands-on lab repository.  
+
+Here you will find all the necessary things to get started with Scala Hands-on Lab program.  
+
+
+
+== Prerequisites  
+=== IDE  
+
+* https://www.jetbrains.com/idea[IntelliJ IDEA]
+** Community/Ultimate version
+* Eclipse
+** http://scala-ide.org[Scala IDE]
+* NetBeans
+** Install Scala Plugin
+* Any text Editor
+** http://ensime.org[Ensime]
+* http://www.lightbend.com/community/core-tools/activator-and-sbt[Activator]  
+
+NOTE: Use the IDE you are familiar with.  
+
+== Build tool  
+we recommend http://www.scala-sbt.org[SBT]
+
